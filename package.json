@@ -1,18 +1,76 @@
 {
-  "name": "@ReguideWIKI/TeaSimple-ReGuide",
+  "name": "@zitterorg/eligendi-sequi-ullam",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "scripts": {},
+  "author": "zitterfe",
   "license": "MIT",
+  "dependencies": {
+    "@zitterorg/accusantium-reprehenderit-quisquam": "^1.0.1",
+    "@zitterorg/adipisci-quae-eius": "^1.1.0",
+    "@zitterorg/aspernatur-pariatur-occaecati": "^1.1.0",
+    "@zitterorg/at-esse-dolorum": "^1.1.0",
+    "@zitterorg/at-esse-odit": "^1.0.1",
+    "@zitterorg/cum-ipsum-beatae": "^1.1.0",
+    "@zitterorg/dolorem-quibusdam-dicta": "^1.0.1",
+    "@zitterorg/doloremque-ut-omnis": "^1.0.1",
+    "@zitterorg/doloribus-quidem-enim": "^1.0.1",
+    "@zitterorg/est-sunt-quos": "^1.0.1",
+    "@zitterorg/eum-veritatis-placeat": "^1.0.1",
+    "@zitterorg/fluffy-waddle": "^2.3.5",
+    "@zitterorg/glowing-barnacle": "^1.1.4",
+    "@zitterorg/illum-perferendis-consectetur": "^1.0.1",
+    "@zitterorg/impedit-ex-praesentium": "^1.0.1",
+    "@zitterorg/inventore-at-sit": "^1.0.1",
+    "@zitterorg/itaque-nisi-veritatis": "^1.1.0",
+    "@zitterorg/iure-consequatur-nostrum": "^1.0.1",
+    "@zitterorg/libero-optio-dolorem": "^1.0.1",
+    "@zitterorg/maiores-commodi-ea": "^1.0.1",
+    "@zitterorg/minus-itaque-odit": "^1.0.1",
+    "@zitterorg/neque-repellendus-ut": "^1.0.1",
+    "@zitterorg/omnis-delectus-deserunt": "^1.0.1",
+    "@zitterorg/probable-octo": "^1.1.5",
+    "@zitterorg/quibusdam-sit-qui": "^1.1.0",
+    "@zitterorg/reiciendis-minima-excepturi": "^1.0.1",
+    "@zitterorg/upgraded-fishstick": "^1.1.1",
+    "@zitterorg/vel-at-tenetur": "^1.0.1",
+    "analsorhost-simple-bs": "^1.0.1",
+    "corcojs-qrcode": "^1.0.0",
+    "corcojs-qrcode-logo": "^1.0.0",
+    "dable-effect": "^1.0.2",
+    "firan-logging": "^1.0.0",
+    "simple-assi-animation": "^1.0.1",
+    "simple-prompts-web3": "^1.0.1"
+  },
+  "keywords": [
+    "ECMAScript 2023",
+    "CSSStyleDeclaration",
+    "Array.prototype.contains",
+    "drop",
+    "shebang",
+    "immer",
+    "escape",
+    "ESnext",
+    "ebs",
+    "loading",
+    "arrays",
+    "vpc",
+    "function",
+    "Array.prototype.flatten",
+    "streams2",
+    "prop",
+    "findup",
+    "await",
+    "omit",
+    "flag"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ReguideWIKI/TeaSimple-ReGuide.git"
+    "url": "https://github.com/zitterorg/eligendi-sequi-ullam.git"
   },
-  "dependencies": {
-    
+  "homepage": "https://github.com/zitterorg/eligendi-sequi-ullam/#readme",
+  "bugs": {
+    "url": "https://github.com/zitterorg/eligendi-sequi-ullam/issues"
   }
 }
